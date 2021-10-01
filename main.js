@@ -1,0 +1,14 @@
+var name1="Royston";
+var name2="Mancho";
+var fullname=name1.concat(name2);
+console.log(fullname);
+var a=10;
+var b=5;
+var add=a+b;
+console.log(add);
+var sub=a-b;
+console.log(sub);
+var product=a*b;
+console.log(product);
+var divide=a/b;
+console.log(divide);
